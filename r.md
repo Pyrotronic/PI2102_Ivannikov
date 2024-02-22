@@ -1,4 +1,4 @@
 ###PI2102_Ivannikov###
-![alt text](пудж.jpg)
+![alt text](pudge.jpg)
 This is **pudge**.
 He is a *myasnik*.
