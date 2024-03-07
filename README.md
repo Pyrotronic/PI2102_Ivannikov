@@ -1,5 +1,5 @@
 ###PI2102_Ivannikov###
-![alt text](pudge.jpg)
+![alt text](assets/пудж.jpg)
 This is **pudge**.
 He is a *myasnik*.
 ##Тема курсовой работы:**Разработка приложения для прослушивания музыки**##
